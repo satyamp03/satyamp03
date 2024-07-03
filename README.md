@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @satyamp03
-- 👀 I am currently working as a Data Scientist in Bioinformatics.
-- 🌱 I’m currently learning Machine Learning A-Z™: Hands-On Python & R In Data Science
+- 🏫 I graduated from The University of British Columbia with a BSc Combined Honours in Physics and Astronomy.
+- 👀 I am currently working as a Data Scientist in Bioinformatics at UBC.
+- 🌱 I’m currently working my way through the Google Advanced Data Analytics Certification.
 
 <!---
 satyamp03/satyamp03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
